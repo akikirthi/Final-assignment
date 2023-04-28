@@ -5,7 +5,7 @@ Version: 0.1.0
 Author: Kirthi Sri Lalitha Aki
 Maintainer: Kirthi Sri Lalitha Aki <akikirthi@gmail.com>
 Description: The BioMetrics package provides a set of functions for analyzing biostatistics data. The package includes functions for conducting t-tests, plotting Kaplan-Meier survival curves, and computing hazard ratios. The functions are designed to work with the heart dataset from the survival package, but can be easily adapted for use with other datasets.
-License: GPL-3
+License: GPL - 3 
 Encoding: UTF-8
 LazyData: true
 Imports:
